@@ -138,4 +138,5 @@ Then, you can view the playground at [http://localhost:3000](http://localhost:30
 
 ## 🌊 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT 
+License - see the [LICENSE.md](LICENSE.md) file for details
